@@ -12,3 +12,4 @@ C:\Users\maiko\exercicio\obj\Debug\net8.0\refint\exercicio.dll
 C:\Users\maiko\exercicio\obj\Debug\net8.0\exercicio.pdb
 C:\Users\maiko\exercicio\obj\Debug\net8.0\exercicio.genruntimeconfig.cache
 C:\Users\maiko\exercicio\obj\Debug\net8.0\ref\exercicio.dll
+C:\Users\maiko\exercicio\obj\Debug\net8.0\exercicio.sourcelink.json
