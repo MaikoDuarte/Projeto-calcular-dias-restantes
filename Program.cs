@@ -11,8 +11,8 @@
         
         if (string.IsNullOrWhiteSpace(nome))
         {
-            Console.WriteLine("O nome não pode ser nulo ou em branco. Tente novamente.");
-            continue; // Volta a pedir o nome
+            throw new Exception("O nome não pode ser nulo ou em branco.");
+            
         }
 
         DateTime? dataNascimento = null;
@@ -48,7 +48,7 @@
         int anosRestantes = (int)tempoRestante.TotalDays / 365;
         int diasRestantes = (int)tempoRestante.TotalDays % 365;
 
-        Console.WriteLine($"Eu, {nome}, estarei vivo até o dia: {dataCentenaria.ToString("dd/MM/yyyy")}");
+        Console.WriteLine($"Eu, {nome}, estarei vivo(a) até o dia: {dataCentenaria.ToString("dd/MM/yyyy")}");
         Console.WriteLine($"Ainda tenho {anosRestantes} anos e {diasRestantes} dias de vida.");
     }
     using (StreamWriter sw = new StreamWriter("dados_pessoais.txt"))
