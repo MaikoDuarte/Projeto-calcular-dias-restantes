@@ -14,8 +14,9 @@ Adicionado o try catch para capturar a mensagem de erro ao se digitar um nome in
 ## Adicionar um Dictionary (Coleção) (01/11)
 ![image](https://github.com/MaikoDuarte/Projeto-calcular-dias-restantes/assets/46424572/35ece621-09b1-4067-acd2-cc9ee5dedb63)
 
-## StreamWriter (01/11)
-Gera um arquivo de texto com os dados da aplicação
+## Gera um arquivo de texto com os dados da aplicação (01/11)
+utilizando StreamWriter
+
 ![image](https://github.com/MaikoDuarte/Projeto-calcular-dias-restantes/assets/46424572/8fdad072-3dff-494f-ae88-f2c1b8d42f4b)
 
 # Referências
