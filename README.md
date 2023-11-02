@@ -5,7 +5,17 @@ Projeto da [MJV School].NET para calcular os dias restantes de vida utilizando C
 
 ![image](https://github.com/MaikoDuarte/Projeto-calcular-dias-restantes/assets/46424572/7915b21f-5ed0-45cc-b173-07731c412259)
 
+# Updates
 
+## Try Catch
+Adicionado o try catch para capturar a mensagem de erro ao se digitar um nome inválido.
+![image](https://github.com/MaikoDuarte/Projeto-calcular-dias-restantes/assets/46424572/b069e8e1-7a67-406b-bebf-e11d556a86ac)
+
+## Adicionar um Dictionary (Coleção).
+![image](https://github.com/MaikoDuarte/Projeto-calcular-dias-restantes/assets/46424572/35ece621-09b1-4067-acd2-cc9ee5dedb63)
+
+## Gera um arquivo de texto com os dados da aplicação
+![image](https://github.com/MaikoDuarte/Projeto-calcular-dias-restantes/assets/46424572/8fdad072-3dff-494f-ae88-f2c1b8d42f4b)
 
 # Referências
 
