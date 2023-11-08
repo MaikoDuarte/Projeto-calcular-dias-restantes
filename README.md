@@ -19,6 +19,9 @@ utilizando StreamWriter
 
 ![image](https://github.com/MaikoDuarte/Projeto-calcular-dias-restantes/assets/46424572/8fdad072-3dff-494f-ae88-f2c1b8d42f4b)
 
+## Separando em classes (01/11)
+Foram criadas as classes Pessoa e CalcularTempoVida
+
 # Referências
 
  - https://learn.microsoft.com/pt-br/dotnet/api/system.datetime.tryparseexact?view=net-7.0#system-datetime-tryparseexact(system-string-system-string()-system-iformatprovider-system-globalization-datetimestyles-system-datetime@)
